@@ -1,7 +1,7 @@
 # 🎵 ShizuMusic
 <div align="center">
 
-<img src="https://files.catbox.moe/f084wg.png" alt="ShizuMusic" width="100%">
+<img src="https://graph.org/file/14768679773af57a8395d-ce253a1e79afbaacba.jpg" alt="KristenMusic" width="100%">
 
 **First open-source Telegram VC music bot.**
 Fast • Smooth • Powerful — runs free on Render, Koyeb, Railway & Heroku.
