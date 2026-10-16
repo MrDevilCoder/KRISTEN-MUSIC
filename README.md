@@ -1,4 +1,4 @@
-# 🎵 ShizuMusic
+# 🎵 KristenMusic
 <div align="center">
 
 <img src="https://graph.org/file/14768679773af57a8395d-ce253a1e79afbaacba.jpg" alt="KristenMusic" width="100%">
