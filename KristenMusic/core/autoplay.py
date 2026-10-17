@@ -1,13 +1,13 @@
 # ═══════════════════════════════════════════════════════════════
-#                     🎵 SHIZUMUSIC
+#                     🎵 KRISTENMUSIC
 #
-#                   © 2026 BAD MUNDA
+#                   © 2026 TOXIC XD
 #
-#                Developed with ❤️ by Bad Munda
+#                Developed with ❤️ by TEAM SANATANI
 #
 #             Do not remove or alter the original credits.
 #
-#           Copyright © 2026 Bad Munda. All rights reserved.
+#           Copyright © 2026 Toxic Xd. All rights reserved.
 #
 #              
 # ═══════════════════════════════════════════════════════════════
@@ -22,8 +22,8 @@ from typing import Dict, List, Optional
 import config
 from py_yt import VideosSearch
 
-from ShizuMusic.core.queue import add_to_queue, get_queue
-from ShizuMusic.utils.db import (
+from KristenMusic.core.queue import add_to_queue, get_queue
+from KristenMusic.utils.db import (
     get_autoplay_lang as _db_get_lang,
     get_autoplay_mood as _db_get_mood,
     is_autoplay_enabled as _db_get_enabled,
@@ -31,8 +31,8 @@ from ShizuMusic.utils.db import (
     set_autoplay_lang as _db_set_lang,
     set_autoplay_mood as _db_set_mood,
 )
-from ShizuMusic.utils.formatters import iso_to_human, iso_to_sec, sec_to_iso
-from ShizuMusic.utils.youtube import extract_video_id, related_videos
+from KristenMusic.utils.formatters import iso_to_human, iso_to_sec, sec_to_iso
+from KristenMusic.utils.youtube import extract_video_id, related_videos
 
 logger = logging.getLogger(__name__)
 AUTOPLAY_TAG = "🔁 AutoPlay"
